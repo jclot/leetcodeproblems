@@ -8,7 +8,13 @@ Cada archivo en este repositorio corresponde a una pregunta específica de LeetC
 
 ## Estructura del Repositorio
 
-LeetCode-Top-50 │ ├── src │ ├── Question1.java │ ├── Question2.java │ ├── Question3.java │ └── ... └── README.md
+LeetCode-Top-50/ ├── src/ │ ├── Question1.java │ ├── Question2.java │ ├── Question3.java │ └── ... └── README.md
+
+| **Directorio** | **Descripción**                                      |
+|-----------------|------------------------------------------------------|
+| `src`           | Contiene las soluciones a las preguntas de LeetCode. |
+| `QuestionX.java`| Archivo con la solución de la pregunta X de LeetCode. |
+| `README.md`     | Este archivo, que proporciona información sobre el repositorio. |
 
 ## Cómo Usar
 
@@ -16,5 +22,5 @@ LeetCode-Top-50 │ ├── src │ ├── Question1.java │ ├── Que
    ```bash
    git clone https://github.com/tu-usuario/LeetCode-Top-50.git
    cd src/...
-    javac Question1.java
-    java Question1
+   javac Question1.java
+   java Question1
