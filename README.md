@@ -12,10 +12,6 @@ Cada archivo en este repositorio corresponde a una pregunta específica de LeetC
 
 leetcodeproblems ├── src/ │ ├── Question1.java │ ├── Question2.java │ ├── Question3.java │ └── ... └── README.md
 
-├── target                    # Todo lo que se genero despues del build.
-├── src                     # Todas las preguntas hechas por el momento. 12/50.
-└── README.md
-
 | **Directorio** | **Descripción**                                      |
 |-----------------|------------------------------------------------------|
 | `src`           | Contiene las soluciones a las preguntas de LeetCode. |
