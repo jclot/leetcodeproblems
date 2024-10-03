@@ -2,7 +2,7 @@
 
 Este repositorio contiene soluciones a las 50 preguntas más comunes de entrevistas de programación de LeetCode, implementadas en Java. Estas preguntas son fundamentales para prepararse para entrevistas técnicas en empresas de tecnología.
 
-![](https://geps.dev/progress/12)
+![](https://geps.dev/progress/24)
 
 ## Contenido
 
