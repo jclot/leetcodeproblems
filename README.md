@@ -2,13 +2,19 @@
 
 Este repositorio contiene soluciones a las 50 preguntas más comunes de entrevistas de programación de LeetCode, implementadas en Java. Estas preguntas son fundamentales para prepararse para entrevistas técnicas en empresas de tecnología.
 
+![](https://geps.dev/progress/12)
+
 ## Contenido
 
 Cada archivo en este repositorio corresponde a una pregunta específica de LeetCode, con su respectiva solución en Java. Las preguntas están organizadas por su número de identificación de LeetCode.
 
 ## Estructura del Repositorio
 
-LeetCode-Top-50/ ├── src/ │ ├── Question1.java │ ├── Question2.java │ ├── Question3.java │ └── ... └── README.md
+leetcodeproblems ├── src/ │ ├── Question1.java │ ├── Question2.java │ ├── Question3.java │ └── ... └── README.md
+
+├── target                    # Todo lo que se genero despues del build.
+├── src                     # Todas las preguntas hechas por el momento. 12/50.
+└── README.md
 
 | **Directorio** | **Descripción**                                      |
 |-----------------|------------------------------------------------------|
