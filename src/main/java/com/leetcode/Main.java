@@ -32,8 +32,14 @@ public class Main {
         // JumpGameTwo jumpGameTwo = new JumpGameTwo();
         // System.out.println(jumpGameTwo .jump(new int[] {2,3,0,1,4}));
 
-        Hindex hindex = new Hindex();
-        System.out.println(hindex.hIndex(new int[] {1}));
+        // Hindex hindex = new Hindex();
+        // System.out.println(hindex.hIndex(new int[] {1}));
+
+        // ProductOfArray productOfArray = new ProductOfArray();
+        // productOfArray.productExceptSelf(new int[]{1,2,3,4});
+
+        Candy candyChCandy = new Candy();
+        System.out.println(candyChCandy.candy(new int[]{1, 0, 2}));
 
     }
 }
